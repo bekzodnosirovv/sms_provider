@@ -1,0 +1,13 @@
+### create
+POST http://localhost:8081/api/v1/client
+Content-Type: application/json
+
+{
+  "companyName": "AliiiProdaction",
+  "login": "ali1234",
+  "password": "1234567"
+
+}
+
+
+
